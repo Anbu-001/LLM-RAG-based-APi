@@ -1,0 +1,8 @@
+{
+    "functions": {
+        "open_calculator": "Open calculator application",
+        "get_cpu_usage": "Retrieve CPU usage",
+        "run_shell_command": "Execute a shell command",
+        "custom_function": "This is a user-defined function"
+    }
+}

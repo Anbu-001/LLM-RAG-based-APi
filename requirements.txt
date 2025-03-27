@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+faiss-cpu
+llama-cpp-python
+psutil
+
