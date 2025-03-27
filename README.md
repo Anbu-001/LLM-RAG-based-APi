@@ -22,8 +22,8 @@ cd LLM-RAG-based-APi
 
 ### 2️⃣ **Create a Virtual Environment**
 ```bash
-python -m venv env
-env\Scripts\activate    
+python -m venv LLM
+LLM\Scripts\activate    
 ```
 
 ### 3️⃣ **Install Dependencies**
